@@ -5,7 +5,7 @@ body{
 .con{
 	
 	position: relative;
-	 /*overflow: hidden; */
+	 overflow: hidden; 
 }
 #pic-list{
 	position: relative;
